@@ -1,0 +1,20 @@
+.hover:hover {
+    background-color: red;
+}
+
+.my-bg {
+    background-color: black;
+}
+
+.hover{
+    padding: 15px;
+    cursor: pointer;
+    color: white;
+}
+
+.card {
+    margin: 0 auto;
+    float: none; 
+    margin-bottom: 10px;
+    border: none !important;
+}
